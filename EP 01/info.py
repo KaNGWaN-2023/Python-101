@@ -1,2 +1,0 @@
-name = 'Kasinp'
-Lastname = 'P'
